@@ -123,7 +123,7 @@
     } */
     .skills-box-main {
         width: 240px;
-        height: 240px !important;
+        height: 100px !important;
     }
     .skills-box-main h3 {
         font-size: 30px;
@@ -1794,7 +1794,7 @@
         padding: 20px 0 20px 0;
     }
     .skills-box-main img {
-        margin-bottom: 40px;
+        margin-bottom: 0rem;
     }
     .skills-box-main h3 {
         font-size: 26px;
@@ -1802,7 +1802,7 @@
     }
     .skills-box-main {
         width: 190px;
-        height: 190px !important;
+        height: 80px !important;
     }
     .posuere {
         font-size: 18px;
@@ -2034,8 +2034,8 @@
         left: 2%;
     }
     .skill-type-main {
-        grid-template-columns: repeat(1, 1fr);
-        gap: 15px;
+        /* grid-template-columns: repeat(1, 1fr); */
+        gap: 1rem;
     }
     .single-services-main-img {
         border-radius: 20px;
