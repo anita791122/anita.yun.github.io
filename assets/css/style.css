@@ -1537,11 +1537,13 @@ button.tab-button span {
     display: flex;
     justify-content: space-between;
     flex-direction: column;
+    margin: 0 1rem;
+    width: 33%;
 }
 .tab-imgs-main {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: start;
 }
 .tab1sub2 {
     margin-top: 150px;
@@ -1790,6 +1792,9 @@ button.tab-button span {
     color: #909090;
     font-size: 16px;
     line-height: 24px;
+    font-weight: 700;
+    margin: 0.8rem;
+    text-align: center;
 }
 .trigger {
     cursor: pointer;
@@ -1842,7 +1847,7 @@ button.tab-button span {
     background-color: #0F141C;
 }
 .blog-pop-up-list li {
-    color: #909090;
+    color: #fff;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -5182,6 +5187,12 @@ p.blog8-heding a {
   
 .mt-4rem {
     margin-top: 4rem;
+}
+.mt-5rem {
+    margin-top: 5rem;
+}
+.mt-6rem {
+    margin-top: 6rem;
 }
 .a2 {
     background-color: var(--primary);
