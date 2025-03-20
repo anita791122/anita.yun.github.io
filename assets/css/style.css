@@ -5069,7 +5069,7 @@ p.blog8-heding a {
 }  
 .hero-text {
     text-transform: uppercase;
-    font-size: 8.6rem;
+    font-size: 7rem;
     font-weight: 700;
 }
 .hero-line {
@@ -5132,29 +5132,29 @@ p.blog8-heding a {
 }
 .icon_UIUX_right {
     display: inline-block;
-    background-image: url(/assets/images/icon_right.svg);
+    background-image: url(../images/icon_right.svg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 24px;
     height: 24px;
 }
 .icon_UIUX_right:hover {
-    background-image: url(/assets/images/icon_right_w.svg);
+    background-image: url(../images/icon_right_w.svg);
 }
 .icon_Visual_right {
     display: inline-block;
-    background-image: url(/assets/images/icon_right_w.svg);
+    background-image: url(../images/icon_right_w.svg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 24px;
     height: 24px;
 }
 .icon_Visual_right:hover {
-    background-image: url(/assets/images/icon_right.svg);
+    background-image: url(../images/icon_right.svg);
 }
 .spinner-image {
     filter: invert();
-    background-image: url(/assets/images/img_AboutMe.svg);
+    background-image: url(../images/img_AboutMe.svg);
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -5166,7 +5166,7 @@ p.blog8-heding a {
     display: flex;
 }
 .spinner-image a:hover {
-    background-image: url(/assets/images/img_AboutMe.svg);
+    background-image: url(../assets/images/img_AboutMe.svg);
 }
 .spinner-wrapper {
     z-index: 2;
